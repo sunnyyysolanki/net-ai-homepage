@@ -16,9 +16,12 @@
 # next.js
 /.next/
 /out/
+/.history/
 
 # production
 /build
+
+/.history/
 
 # misc
 .DS_Store
